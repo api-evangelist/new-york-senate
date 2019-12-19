@@ -1,0 +1,59 @@
+{
+    "name": "New York Senate",
+    "description": "NYSenate.gov is designed to increase public participation in the legislative process. By facilitating efficient communication between individual New Yorkers and the senators who represent them, lawmakers are able to craft a better set of laws by which ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/446-new-york-senate.jpg",
+    "tags": [
+        "api provider",
+        "communities",
+        "data provider",
+        "have api",
+        "state government"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/new-york-senate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "New York Senate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/446-new-york-senate.jpg",
+            "humanURL": "http:\/\/www.nysenate.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/new-york-senate-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/new-york-senate"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.nysenate.gov\/open"
+        },
+        {
+            "type": "Email",
+            "url": "websitehelp@nysenate.gov"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/nysenate"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/nysenate"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nysenate.gov"
+        }
+    ]
+}
